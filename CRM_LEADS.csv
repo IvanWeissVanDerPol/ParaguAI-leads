@@ -1,19 +1,19 @@
-Rank,Name,Score,GPS,WhatsApp,Phone,Owner,Category,Rating,Reviews,WebFit,Priority
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+Rank,Name,Display,Score,GPS,WhatsApp_Link,Phone,Owner,Category,Rating,Reviews,WebFit,Priority
+1,HidroBaby-Spa,HidroBaby Spa,135.1,~3.0km,wa.me/595993444222,+595 993 444 222,Fabio Castillo / Fatima Flecha,Baby Spa,5.0★,377,5/5 EXTREME,🔴 TOP TI
+2,Estudio-Medieval,Estudio Medieval,133.2,0.8km,wa.me/595961482854,+595 961 482 854,Damián,Tattoo/Piercing,4.6★,392,5/5 EXTREME,🔴 TOP TI
+3,Shine-Nails,Shine Nails,130.7,~1.0km,wa.me/595986693259,+595 986 693 259,Celeste Villalba,Nails,4.6★,287,5/5 EXTREME,🔴 TOP TI
+4,Leticia-Carballo,Leticia Carballo,118.5,~2.1km,wa.me/595984904215,+595 984 904 215,Leticia Carballo,Makeup Studio,4.6★,206,5/5 EXTREME,🔴 TOP TI
+5,Nutrifit-Spa,Nutrifit Spa,111.3,~2.2km,wa.me/595981953000,+595 981 953 000,Auda Riveros,Spa/Nutrition,4.6★,233,4/5 HIGH,🔴 TOP TI
+6,Barbye-Nails,Barbye Nails,107.2,~1.0km,wa.me/595961336346,+595 961 336 346,Unknown,Nails,4.8★,92,3/5 MODERATE,🟡 SECOND
+7,Nde-Barba,Nde Barba Barbería,92.6,~1.7km,wa.me/595991444268,+595 991 444 268,Unknown,Barbershop,4.8★,118,4/5 HIGH,🟡 SECOND
+8,Arnos-Barber-Shop,Arno's Barber Shop,88.0,~1.8km,wa.me/595983996086,+595 983 996 086,Arno,Barbershop,5.0★,24,3/5 MODERATE,🟡 SECOND
+9,Cronos-Academy,Cronos Academy,87.0,~2.6km,wa.me/595962201042,+595 962 201 042,Unknown,Gym,4.9★,51,2/5 LOW,🟡 SECOND
+10,Viviesteticpy,Viviesteticpy,86.4,~1.6km,wa.me/595976668289,+595 976 668 289,Viviana Ocampo,Microblading,4.7★,61,4/5 HIGH,🟡 SECOND
+11,Portas-Barber,Portas Barber Shop,85.6,~2.1km,wa.me/595994215627,+595 994 215 627,Unknown,Barbershop,4.9★,162,4/5 HIGH,🟡 SECOND
+12,XXGym,XXGym,83.3,~1.6km,wa.me/595021678171,+595 021 678 171,Unknown,Gym,4.7★,119,3/5 MODERATE,🟢 BACKUP
+13,Lele-Ferreira,Lele Ferreira,80.2,~1.9km,wa.me/595985598630,+595 985 598 630,Lele Ferreira,Makeup Studio,4.8★,82,3/5 MODERATE,🟢 BACKUP
+14,Scott-Tatuajes,Scott Tatuajes,78.3,~2.0km,wa.me/595981575176,+595 981 575 176,Scott,Tattoo Studio,4.6★,82,2/5 LOW,🟢 BACKUP
+15,Avani-Belleza,Avani Belleza,72.9,~1.5km,wa.me/595994202928,+595 994 202 928,Unknown,Beauty Salon,4.7★,25,2/5 LOW,🟢 BACKUP
+16,Barbershop-Peluqueria,Peluquería Barbershop,70.7,~2.0km,wa.me/595982992766,+595 982 992 766,Unknown,Barbershop,4.6★,66,2/5 LOW,🟢 BACKUP
+17,Woman-Cosmeticos,Woman Cosmeticos,54.3,~1.6km,wa.me/595985695929,+595 985 695 929,Unknown,Cosmetics,4.8★,9,1/5 VERY LOW,🟠 VERY LOW
+18,Clau-Bellino,Clau Bellino,31.5,~3.5km,wa.me/595981924858,+595 981 924 858,Clau Bellino,Facial Aesthetics,5.0★,21,2/5 LOW,🟠 VERY LOW
